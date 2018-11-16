@@ -1,0 +1,23 @@
+{
+  "name": "climat",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  },
+  "version": "1.0.0",
+  "description": "My wordpress theme about climat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armelito/wordpress-react.git"
+  },
+  "author": "Armel Cantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armelito/wordpress-react/issues"
+  },
+  "homepage": "https://github.com/armelito/wordpress-react#readme"
+}
